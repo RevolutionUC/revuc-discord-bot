@@ -9,6 +9,7 @@
   "author": "Nishil Faldu",
   "license": "ISC",
   "dependencies": {
+    "axios": "^1.2.6",
     "discord.js": "^14.6.0",
     "dotenv": "^16.0.3",
     "mongoose": "^6.6.5",
